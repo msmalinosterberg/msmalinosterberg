@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm a front end developer with a background in marketing and communication. I love solving problems, coming up with creative solutions and make them come to life.
+
+I'm currently looking for a job in the area of Gothenburg or Stockholm.
+I'm open for working remote as well. 
+
+Let's keep in touch! 
+-> msmalinosterberg@gmail.com or https://www.linkedin.com/in/malin-osterberg/ 
 
 <!--
 **msmalinosterberg/msmalinosterberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
